@@ -47,4 +47,4 @@ npx wrangler delete
 
 ## Architecture Diagram
 
-![Architecture Diagram](./src/assets/arch-diagram.svg)
+![Architecture Diagram](./src/assets/arch-diagram.svg).
